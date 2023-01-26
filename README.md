@@ -1,4 +1,5 @@
-- 👋 Hello, I’m Min Jang (@min-jang). I am currently an undergraduate student at the University of Maryland, studying Computer Science
+- 👋 Hello, I’m Min Jang (@min-jang). I am currently an undergraduate student at the University of Maryland, studying Computer Science.
 - 👀 I’m interested in Human Computer Interaction, UI/UX, and bridging the gap of accessibility. I would like to challenge ableism and benefit people with disabilities through my work.
-- 🌱 I’m currently learning Ruby, OCaml, Rust, and coding through Android Studio
+- 🌱 I’m currently learning HTML, CSS, JS, and coding through Android Studio
 - 📫 How to reach me: mjang2001@gmail.com or https://www.linkedin.com/in/minjang2/
+- ‼  There are multiple private repositories for showcasing work that I've done in my classes. Please contact me if you'd like access to the repositories.
